@@ -1,0 +1,84 @@
+/* .hire{
+    width: 100px;
+    height: 40px;
+    background: #ff7200;
+    border: 2px solid #ff7200;
+    margin-top: 13px;
+    color: #fff;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.hire:focus{
+    outline: none;
+}
+.srch:focus{
+    outline: none; */
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: black;
+}
+h1{
+    color: #ff7200;
+    text-align: center;
+    margin-top: 120px;
+    font-weight: bold;
+    font-size: 50px;
+    line-height: 40px;
+}
+.form{
+    width: 380px;
+    height: 400px;
+    background: rgb(35, 33, 33);
+    position: absolute;
+    right: 400px;
+    border-radius: 10px;
+    text-align: center;
+    margin-top: 25px;
+    padding-left: 25px;
+ 
+}  
+
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border: 1px solid #ff7200;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    color: orange;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
+    cursor: pointer; 
+    color: #ff7200;
+    transition: 0.4s ease;
+}
+.button{
+    width: 140px;
+    height: 40px;
+    background: #ff7200;
+    border: none;
+    margin-top: 15px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color:#fff;
+    transition: 0.4s ease;
+}
+.button:hover{
+     background: greenyellow;
+    color:#ff7200;
+}
+.button a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+}

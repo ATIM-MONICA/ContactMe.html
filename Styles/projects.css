@@ -1,0 +1,46 @@
+body{
+    background-color: antiquewhite;
+}
+.ph{
+    text-align: center;
+    color: orangered;
+    font-size: 40px;
+    opacity: 100px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.project{
+    text-align: center;
+    height: 120px;
+    width: 280px;
+    background: rgb(53, 173, 133);
+    border-radius: 10PX;
+    margin-left: 450px;
+
+}
+.par1{
+    text-align: center;
+    color: orangered;
+    opacity: 120px;
+    margin-top: 5px;
+    height: 35px;
+    width: 160px;
+    background: rgb(122, 230, 194);
+    border-radius: 10px;
+    margin-left: 500px;
+    padding: 10px;
+    font-family: Courier;
+    font-weight: bolder;
+    
+    
+}
+.par2{
+    text-align: justify;
+    opacity: 40px;
+    margin-top: 10px;
+    padding: 10px;
+    font-style: serif;
+}
+.link{
+    text-decoration: none;
+    color: blue;
+}
